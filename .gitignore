@@ -1,5 +1,6 @@
 *
 !.gitignore
+!README.md
 !foo
 !foo/bar
 !foo/baz
